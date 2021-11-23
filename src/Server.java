@@ -85,7 +85,7 @@ public static String MD5olusturma(String input)
 	
 
     ClientHandler(Socket s) {
-        throw new UnsupportedOperationException("Not supported yet.");
+        throw new UnsupportedOperationException("");
     }
 }
 
