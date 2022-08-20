@@ -1,4 +1,4 @@
-## Bilgisayar Sistemleri Lab. Proje
+## Java Socket
 
 # MD5_Java_Socket
 
